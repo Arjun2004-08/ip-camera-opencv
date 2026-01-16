@@ -19,7 +19,7 @@ This project demonstrates how to stream live video from an IP camera using Pytho
 1. Connect your mobile/IP camera to the same network.
 2. Get the camera stream URL (e.g. from IP Webcam app).
 3. Replace the URL in the script:
-- url = "http://<IP>:<PORT>/video"
+- url = ```"http://<IP>:<PORT>/video"```
 
 ##  Controls
 - `q` → Quit application
